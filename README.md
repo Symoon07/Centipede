@@ -1,6 +1,6 @@
 # Centipede
 
-2D arcade style game made with pygame inspired by the book Lord of the Flies by William Golding
+Recreation of the arcade game Centipede in Java.
 
 ## Contributors
 
